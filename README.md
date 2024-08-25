@@ -1,1 +1,3 @@
-# animated-pie-chart
+# Learn how to build an interactive Pie Chart using Plotly 
+
+Here we will explore Plotly and learn ways to build different types of pie chart and add animation to them...
